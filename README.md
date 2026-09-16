@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tolojanahary 👋
 
-<!--
-**Tolojanahary21/Tolojanahary21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M1 Computer Science student at ENI Fianarantsoa
+💻 Full Stack Web & Mobile Developer
 
-Here are some ideas to get you started:
+I build modern web and mobile applications with a focus on clean, practical and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+* **Frontend:** React, Next.js, Vue.js, TypeScript
+* **Backend:** Python, FastAPI, Node.js, Laravel
+* **Database:** PostgreSQL, Prisma, SQLAlchemy
+* **Tools:** Git, Docker, GitHub Actions
+
+## 🚀 Featured Projects
+
+* **StudyMind AI** — AI-powered document analysis and study platform
+* **FlowTask** — Intelligent task planning and duration estimation platform
+* **P2P File Sharing** — Peer-to-peer file sharing application
+* **Gestion de Stages** — Online internship management platform
+
+## 🔗 Links
+
+* 🌐 Portfolio: https://tolojanahary-indol.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/tolojanahary-stephan-344a77397/
