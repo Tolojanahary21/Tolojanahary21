@@ -6,7 +6,30 @@
 
 I build modern web and mobile applications and explore AI/ML through practical projects, with a focus on clean, scalable and useful solutions.
 
+## 🔭 Currently
+
+- 🎓 Pursuing a Master's degree in Computer Science
+- 🚀 Building full-stack web and mobile applications
+- 🤖 Developing AI/ML projects with Python
+- 📚 Improving my skills in software architecture and MLOps
 ---
+## 💡 What I Do
+
+- 🌐 Full Stack Web Development
+- 📱 Mobile Application Development
+- 🤖 AI & Machine Learning
+- 🔌 REST API Development
+- 🗄️ Database Design & Management
+- ⚙️ Software Architecture
+
+- ## 💡 What I Do
+
+- 🌐 Full Stack Web Development
+- 📱 Mobile Application Development
+- 🤖 AI & Machine Learning
+- 🔌 REST API Development
+- 🗄️ Database Design & Management
+- ⚙️ Software Architecture
 
 ## 🛠️ Technologies
 
